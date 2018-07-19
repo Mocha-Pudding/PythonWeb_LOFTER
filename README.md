@@ -1,0 +1,2 @@
+# PythonWeb_LOFTER
+LOFTER是我以前经常分享图片的社交平台，很喜欢很有设计感的东西，自己做Python Web后拿来练手的第一个项目，仿照网易LOFTER（乐乎）做一个图片分享社区
